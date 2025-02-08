@@ -1,0 +1,6 @@
+streamlit==1.32.0
+bcrypt==4.1.2
+PyJWT==2.8.0
+python-dotenv==1.0.1
+pandas==2.2.0
+python-decouple==3.8
